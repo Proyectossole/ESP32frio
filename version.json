@@ -1,5 +1,5 @@
 {
    "type": "esp32Frio",
-   "version": "3.7",
+   "version": "3.8",
    "url": "https://raw.githubusercontent.com/Proyectossole/ESP32frio/main/fw.bin"
 }
