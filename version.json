@@ -1,8 +1,8 @@
 [
 {
    "type": "esp32Frio",
-   "version": "1.9",
-   "url": "https://raw.githubusercontent.com/Proyectossole/ESP32frio/main/ESP32-FRIO.ino.bin"
+   "version": "2.0",
+   "url": "https://raw.githubusercontent.com/Proyectossole/ESP32frio/main/ESP32-FRIO-2.0.ino.bin"
 },
    {
    "type":"esp32Frio2.0",
