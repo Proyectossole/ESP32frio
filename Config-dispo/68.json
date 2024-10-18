@@ -1,5 +1,5 @@
 {
-    "VersionConfig": 1,
+    "VersionConfig": 2,
     "Placa": "frio-p",
-    "ATemp": 0.0
+    "ATemp": -10.0
 }
