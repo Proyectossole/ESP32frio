@@ -15,7 +15,7 @@
    "url": "https://raw.githubusercontent.com/Proyectossole/ESP32frio/main/ESP32-FRIO-2.1.ino.bin"
    },
    {
-   "type":"esp32Frio2.1NP",
+   "type":"RF2.1NP",
    "version":"1.0",
    "url": "https://raw.githubusercontent.com/Proyectossole/ESP32frio/main/ESP32-FRIO-2.1NP.ino.bin"
    }
