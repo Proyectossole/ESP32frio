@@ -1,22 +1,6 @@
-[
-{
-   "type": "esp32Frio",
-   "version": "2.0",
-   "url": "https://raw.githubusercontent.com/Proyectossole/ESP32frio/main/ESP32-FRIO-2.0.ino.bin"
-},
-   {
-   "type":"esp32Frio2.0",
-   "version":"1.6",
-   "url": "https://raw.githubusercontent.com/Proyectossole/ESP32frio/main/ESP32-FRIO-2.1.ino.bin"
-   },
-   {
-   "type":"esp32Frio2.1",
-   "version":"1.0",
-   "url": "https://raw.githubusercontent.com/Proyectossole/ESP32frio/main/ESP32-FRIO-2.1.ino.bin"
-   },
    {
    "type":"RF2.1NP",
    "version":"1.0",
    "url": "https://raw.githubusercontent.com/Proyectossole/ESP32frio/main/RF-2.1NP.ino.bin"
    }
-]
+
