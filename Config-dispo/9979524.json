@@ -1,6 +1,6 @@
 {
-    "VersionConfig": 0,
-    "Placa": "NEW",
-    "IdP": "---",
+    "VersionConfig": 1,
+    "Placa": "0001",
+    "IdP": "d37d0dfa-ddaa-4a26-80f8-4a8e2798f4bb",
     "ATemp": 0.0
 }
