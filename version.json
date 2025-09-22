@@ -1,7 +1,7 @@
 [ 
    {
    "type":"RF2.1",
-   "version":"1.7",
+   "version":"1.8",
    "url": "https://raw.githubusercontent.com/Proyectossole/ESP32frio/main/RF2.1.ino.bin"
    },
    { "type":"RF3.0",
