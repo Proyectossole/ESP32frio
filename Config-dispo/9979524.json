@@ -1,7 +1,7 @@
 {
-    "VersionConfig": 5,
+    "VersionConfig": 6,
     "Placa": "1029035-80",
     "IdP": "fcd40e3a-8a37-4f6c-a90c-376a7fa3a6ba",
     "ATemp": 0.0,
-    "ReiCPuerta": 1
+    "ReiCPuerta": 0
 }
